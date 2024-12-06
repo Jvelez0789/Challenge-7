@@ -1,15 +1,15 @@
 {
-  "dependencies": {
-    "inquirer": "^12.1.0"
-  },
-  "name": "challenge-7",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
 }
